@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Slingshot/Scenes/mainmenue.unity
+    guid: 5d1c377437f6742b49477464a2d305d9
+  - enabled: 1
+    path: Assets/Slingshot/Scenes/Slingshot.unity
+    guid: d4e75f691836df3489cc204261c52106
+  - enabled: 1
+    path: Assets/Slingshot/Scenes/Slingshot 1.unity
+    guid: 63bc63b02f5c24fb082734b5ad44e6db
+  - enabled: 1
+    path: Assets/Slingshot/Scenes/Slingshot 2.unity
+    guid: 76b4990a8d31e41339bf8806ecf9b358
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8819135cd909f4d4b8d46c7c32388d71, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a5c4a5ef42f5b46b7bbb80806c95ba36, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: eaee66638e1c3479684092bcf00e6822, type: 2}
